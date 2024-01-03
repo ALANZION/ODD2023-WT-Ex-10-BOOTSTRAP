@@ -477,4 +477,4 @@ form.classList.add('was-validated');
 
 
 ## RESULT :
-This code creates a basic email login form in Bootstrap with validation functionv
+This code creates a basic email login form in Bootstrap with validation function.
