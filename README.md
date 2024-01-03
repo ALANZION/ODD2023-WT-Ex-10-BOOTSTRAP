@@ -14,7 +14,7 @@ Add a submit button and Link Bootstrap JavaScript.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 212223240004
-## OUTPUT :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -46,6 +46,9 @@ REGISTER NO : 212223240004
 </body>
 </html>
 ```
+## OUTPUT:
+
+
 ## RESULT :
 This code creates a responsive feedback form for a virtual workshop on constructing modern
 websites built with Bootstrap.
@@ -66,7 +69,7 @@ Link the Bootstrap JavaScript file at the end of the body.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 212223240004
-## OUTPUT :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -98,6 +101,9 @@ REGISTER NO : 212223240004
 </body>
 </html>
  ```
+## OUTPUT:
+
+
 ## RESULT :
 This code creates a Responsive student registration form for ABC Engineering College built with
 Bootstrap.
@@ -119,7 +125,7 @@ Add a script to handle the form validation on submit.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 21222323240004
-## OUTPUT :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -161,6 +167,8 @@ form.classList.add('was-validated');
 </body>
 </html>
   ```
+## OUTPUT:
+
 ## RESULT :
 This code develops a program to structure vertical form layouts which handle form validation in
 bootstrap.
@@ -182,7 +190,7 @@ Add a script to handle the form validation on submit.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 212223240004
-## OUTPUT :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -223,23 +231,27 @@ form.classList.add('was-validated');
 </script>
 </body>
 </html>
-RESULT :
+```
+# OUTPUT:
+
+
+## RESULT :
 This code creates a basic email login form in Bootstrap with validation functionAIM :
 To Create a Responsive feedback form for a virtual workshop on Constructing Modern Websites
 built with Bootstrap.
 DESIGN STEPS :
-STEP 1 :
+### STEP 1 :
 Initialize the HTML document with the necessary Bootstrap links.
-STEP 2 :
+### STEP 2 :
 Create a container for the form and add a heading.
-Step 3:
+### Step 3:
 Construct the form
-Step 4:
+### Step 4:
 Add a submit button and Link Bootstrap JavaScript.
-PROGRAM :
-DEVELOPED BY : JOHN PAUL J
-REGISTER NO : 212223230093
-OUTPUT :
+## PROGRAM :
+DEVELOPED BY : ALAN ZION H
+REGISTER NO : 212223240004
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -270,6 +282,10 @@ OUTPUT :
 </body>
 </html>
 ```
+## OUTPUT:
+![Screenshot 2024-01-03 093231](https://github.com/ALANZION/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743064/7eafbcf1-fa00-4427-9a1e-b2aeca653a72)
+
+
 ## RESULT :
 This code creates a responsive feedback form for a virtual workshop on constructing modern
 websites built with Bootstrap.
@@ -290,7 +306,7 @@ Link the Bootstrap JavaScript file at the end of the body.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 212223240004
-## OUTPUT :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -322,6 +338,10 @@ REGISTER NO : 212223240004
 </body>
 </html>
   ```
+## OUTPUT:
+
+![Screenshot 2024-01-03 093156](https://github.com/ALANZION/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743064/5a97886a-894a-4db1-8a18-76be56e9dd60)
+
 ## RESULT :
 This code creates a Responsive student registration form for ABC Engineering College built with
 Bootstrap.
@@ -343,7 +363,7 @@ Add a script to handle the form validation on submit.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 212223240004
-## OUTPUT :
+
   ```
 <!DOCTYPE html>
 <html>
@@ -385,6 +405,10 @@ form.classList.add('was-validated');
 </body>
 </html>
   ```
+## OUTPUT :
+![Screenshot 2024-01-03 093057](https://github.com/ALANZION/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743064/303766f5-4434-42ea-bb57-febdffc475dc)
+
+
 ## RESULT :
 This code develops a program to structure vertical form layouts which handle form validation in
 bootstrap.
@@ -406,7 +430,7 @@ Add a script to handle the form validation on submit.
 ## PROGRAM :
 DEVELOPED BY : ALAN ZION H
 REGISTER NO : 212223240004
-## OUTPUT :
+
 ```
 <!DOCTYPE html>
 <html>
@@ -448,5 +472,9 @@ form.classList.add('was-validated');
 </body>
 </html>
   ```
+## OUTPUT :
+![Screenshot 2024-01-03 092346](https://github.com/ALANZION/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743064/750aabf1-6a87-4f64-8a05-12270d779170)
+
+
 ## RESULT :
 This code creates a basic email login form in Bootstrap with validation functionv
